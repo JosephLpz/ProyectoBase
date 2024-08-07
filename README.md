@@ -52,11 +52,11 @@ Para configurar el proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tuusuario/my-react-native-app.git
+    git clone https://github.com/JosephLpz/ProyectoBaseFront.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd my-react-native-app
+    cd ProyectoBaseFront
     ```
 3. Instala las dependencias:
     ```sh
