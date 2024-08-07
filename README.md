@@ -82,6 +82,7 @@ Esto iniciará el servidor de desarrollo de Expo. Luego, puedes usar la aplicaci
 Para ejecutar cualquiera de estos scripts, usa:
 ```sh
 npm run <nombre-del-script>
+```
 
 ## Dependencias
 
